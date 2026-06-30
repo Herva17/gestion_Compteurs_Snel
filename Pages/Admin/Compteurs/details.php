@@ -236,7 +236,7 @@ $page_title = 'Détails du compteur - SNEL Admin';
                                 <i class="fas fa-user w-5 text-gray-400"></i> Mon profil
                             </a>
                             <hr class="my-1">
-                            <a href="../../logout.php" class="flex items-center px-4 py-2 text-sm text-red-600 hover:bg-red-50 transition">
+                            <a href="../../../logout.php" class="flex items-center px-4 py-2 text-sm text-red-600 hover:bg-red-50 transition">
                                 <i class="fas fa-sign-out-alt w-5 text-red-400"></i> Déconnexion
                             </a>
                         </div>

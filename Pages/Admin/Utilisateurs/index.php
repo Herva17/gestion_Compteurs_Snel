@@ -175,7 +175,7 @@ $page_title = 'Gestion des utilisateurs - SNEL Admin';
         </nav>
         
         <div class="absolute bottom-4 left-4 right-4">
-            <a href="../../logout.php" class="nav-item text-red-400 hover:text-red-300 hover:bg-red-500/10">
+            <a href="../../../logout.php" class="nav-item text-red-400 hover:text-red-300 hover:bg-red-500/10">
                 <i class="fas fa-sign-out-alt w-5 text-center"></i> Déconnexion
             </a>
             <div class="text-center text-xs text-white/30 mt-3">v2.0.1 | Admin</div>
@@ -224,7 +224,7 @@ $page_title = 'Gestion des utilisateurs - SNEL Admin';
                                 <i class="fas fa-user w-5 text-gray-400"></i> Mon profil
                             </a>
                             <hr class="my-1">
-                            <a href="../../logout.php" class="flex items-center px-4 py-2 text-sm text-red-600 hover:bg-red-50 transition">
+                            <a href="../../../logout.php" class="flex items-center px-4 py-2 text-sm text-red-600 hover:bg-red-50 transition">
                                 <i class="fas fa-sign-out-alt w-5 text-red-400"></i> Déconnexion
                             </a>
                         </div>

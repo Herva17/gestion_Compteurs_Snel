@@ -176,7 +176,7 @@ $page_title = 'Compteurs - SNEL Admin';
         </nav>
         
         <div class="absolute bottom-4 left-4 right-4">
-            <a href="../../logout.php" class="nav-item text-red-400 hover:text-red-300 hover:bg-red-500/10">
+            <a href="../../../logout.php" class="nav-item text-red-400 hover:text-red-300 hover:bg-red-500/10">
                 <i class="fas fa-sign-out-alt w-5 text-center"></i> Déconnexion
             </a>
             <div class="text-center text-xs text-white/30 mt-3">v2.0.1 | Admin</div>
